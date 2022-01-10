@@ -1,0 +1,2 @@
+# Seperation-identification-musical-instruments
+In this project, machine learning techniques are used to construct a classifier for automatic instrument recognition given a mono-track audio recording. Focus  is on the classification of six instruments commonly used in music. By examining the spectral content of each instrument, a set of features are proposed that can be used to accurately classify musical instruments after which results are presented from both supervised and unsupervised learning algorithms applied to our generated data set.
